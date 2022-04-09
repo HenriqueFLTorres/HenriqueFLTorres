@@ -1,21 +1,12 @@
-## what are you looking for <img  width="2%" src="./svg/EyesWhite#gh-dark-mode-only.svg" alt=""> <img  width="2%" src="./svg/EyesWhite#gh-light-mode-only.svg" alt="">
+# What are you looking for⠀👀
 
-<!--
-**HenriqueFLTorres/HenriqueFLTorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="40%" src="./svg/Logo.svg" alt=""/>
 
-Here are some ideas to get you started:
+## About me
+📅 I have studied for **102 days** <br/>
+💻 Currently focusing on **Front-End** Development <br/>
+💼 Seeking my **first job** <br/>
+📜 **Noncertificates** programmer <br/>
+🖋️ Spending every free time **studying** <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-<p align="right" width="40%">
-  <img width="40%" src="./svg/Logo.svg" alt=""/>
-</p>
-<h3 align="right">Front-End Developer⠀⠀⠀⠀⠀⠀⠀⠀</h3>
