@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1050.2 933.6" style="enable-background:new 0 0 1050.2 933.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:19;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;}
+
+	#CircleR, #CircleL {
+    animation-name: eyeMove;
+    animation-duration: 5s;
+    animation-timing-function: ease;
+    animation-iteration-count: infinite;
+
+    filter: drop-shadow(0 0 5px white);
+	}
+
+	@keyframes eyeMove {
+		0% { transform: translate(0, 0); }
+		30% { transform: translate(-10%,  5%); }
+		80% { transform: translate(0%, 7%); }
+	}
+</style>
+<g id="RoundL">
+	<path class="st0" d="M312.7,847.9L312.7,847.9c-104.1,0-188.5-84.4-188.5-188.5v-397C124.2,158.4,208.6,74,312.7,74h0
+		c104.1,0,188.5,84.4,188.5,188.5v397C501.1,763.5,416.7,847.9,312.7,847.9z"/>
+</g>
+<g id="RoundR">
+	<path class="st0" d="M746.6,847.9L746.6,847.9c-104.1,0-188.5-84.4-188.5-188.5v-397C558.2,158.4,642.5,74,746.6,74h0
+		c104.1,0,188.5,84.4,188.5,188.5v397C935.1,763.5,850.7,847.9,746.6,847.9z"/>
+</g>
+<g id="BallR">
+	<circle cx="738.1" cy="581.7" r="162.8"/>
+</g>
+<g id="BallL">
+	<circle cx="304.2" cy="581.7" r="162.8"/>
+</g>
+<g id="CircleR">
+	<circle class="st1" cx="774.9" cy="535.5" r="58.4"/>
+</g>
+<g id="CircleL">
+	<circle class="st1" cx="341" cy="535.5" r="58.4"/>
+</g>
+</svg>

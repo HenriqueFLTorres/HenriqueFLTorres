@@ -1,4 +1,4 @@
-## what are you looking for 👋
+## what are you looking for <img styles="display: inline_block;" width="2%" src="./svg/Eyes.svg" alt="">
 
 <!--
 **HenriqueFLTorres/HenriqueFLTorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="right" width="40%">
-  <img width="40%" src="./Logo.svg" alt=""/>
+  <img width="40%" src="./svg/Logo.svg" alt=""/>
 </p>
 <h3 align="right">Front-End Developer⠀⠀⠀⠀⠀⠀⠀⠀</h3>
