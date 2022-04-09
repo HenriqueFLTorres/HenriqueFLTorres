@@ -1,4 +1,4 @@
-## what are you looking for <img styles="display: inline_block;" width="2%" src="./svg/Eyes.svg" alt="">
+## what are you looking for <img  width="2%" src="./svg/EyesWhite#gh-dark-mode-only.svg" alt=""> <img  width="2%" src="./svg/EyesWhite#gh-light-mode-only.svg" alt="">
 
 <!--
 **HenriqueFLTorres/HenriqueFLTorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
