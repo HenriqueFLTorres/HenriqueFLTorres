@@ -1,4 +1,4 @@
-### Hi there 👋
+## what are you looking for 👋
 
 <!--
 **HenriqueFLTorres/HenriqueFLTorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="right">
-  
+
+<p align="right" width="40%">
+  <img width="40%" src="./Logo.svg" alt=""/>
 </p>
+<h3 align="right">Front-End Developer⠀⠀⠀⠀⠀⠀⠀⠀</h3>
