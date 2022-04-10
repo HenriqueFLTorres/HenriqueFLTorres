@@ -60,8 +60,8 @@
 <br/>
 <table align="center">
  <tr>
-    <td align="center"><h3>Preview</h3></td>
-    <td align="center"><h3>Project Details</h3></td>
+    <td align="center"><h3>Preview 🖼️</h3></td>
+    <td align="center"><h3>Project Goals 🏆</h3></td>
  </tr>
  <tr>
     <td align="center">
