@@ -88,11 +88,9 @@
     <td align="center">
         <img width="400px" src="./image/Porfolio.png" alt="Porfolio">
     </td>
-     <td align="center">
+    <td align="center">
        • Language Options ✔️<br/> 
        • Responsive Design ✔️<br/> 
        • Image Carrousel ✔️<br/> 
-        
-       [LINK 🔗](#https://github.com/HenriqueFLTorres/My-Personal-Portfolio)
     </td>
 </table>
