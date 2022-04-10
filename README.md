@@ -93,7 +93,6 @@
        • Responsive Design ✔️<br/> 
        • Image Carrousel ✔️<br/> 
         
-       [LINK 🔗]
-       [LINK 🔗]: https://github.com/HenriqueFLTorres/My-Personal-Portfolio
+       [LINK 🔗](#https://github.com/HenriqueFLTorres/My-Personal-Portfolio)
     </td>
 </table>
