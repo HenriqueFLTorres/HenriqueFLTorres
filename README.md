@@ -53,3 +53,26 @@
     </td>
  </tr>
 </table>
+
+
+
+<br/> <br/> 
+<table>
+ <tr>
+    <td align="center"><h3>Preview</h3></td>
+    <td align="center"><h3>Project Details</h3></td>
+ </tr>
+ <tr>
+    <td align="center">
+        <img width="22%" src="./image/EzEcommerce.png" alt="EzEcommerce">
+        <img width="22%" src="./image/Mir4cc.png" alt="Mir4cc">
+        <img width="22%" src="./image/Portfolio.png" alt="Portfolio">
+    </td>
+    <td align="center">
+        <img width="12%" src="./svg/Git.svg" alt="Git">
+        <img width="12%" src="./svg/Sass.svg" alt="Sass">
+        <img width="12%" src="./svg/NodeJS.svg" alt="NodeJS">
+        <img width="12%" src="./svg/Rust.svg" alt="Rust">
+    </td>
+ </tr>
+</table>
