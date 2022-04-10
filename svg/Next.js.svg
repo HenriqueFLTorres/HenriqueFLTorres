@@ -7,6 +7,19 @@
 
 	.st0 {
 		filter: drop-shadow(0 0 12px rgb(245, 85, 22, 0.3));
+		transform-origin: center;
+		
+		animation-name: scale;
+		animation-duration: 4s;
+		 animation-timing-function: ease-in-out;
+		animation-iteration-count: infinite;
+	}
+
+	@keyframes scale {
+		25% { transform: scale(1) }
+		30% { transform: scale(1.1) }
+		35% { transform: scale(1) }
+		100% { transform: scale(1) }
 	}
 </style>
 <g id="Layer_1_1_">

@@ -7,6 +7,19 @@
 
 	.st0 {
 		filter: drop-shadow(0 0 12px rgb(245, 85, 22, 0.3));
+		transform-origin: center;
+		
+		animation-name: scale;
+		animation-duration: 4s;
+		 animation-timing-function: ease-in-out;
+		animation-iteration-count: infinite;
+	}
+
+	@keyframes scale {
+		35% { transform: scale(1) }
+		40% { transform: scale(1.1) }
+		45% { transform: scale(1) }
+		100% { transform: scale(1) }
 	}
 </style>
 <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-44.6235" y1="1248.3951" x2="20.3816" y2="1248.3951" gradientTransform="matrix(0.4226 0.9063 0.9063 -0.4226 -1065.0729 591.8295)">
