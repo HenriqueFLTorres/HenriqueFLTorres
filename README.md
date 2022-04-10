@@ -5,11 +5,13 @@
 ## About me 🚶‍♂️
 
 <br/> <br/>
-📅 I have studied for **102 days** <br/>
-💻 Currently focusing on **Front-End** Development <br/>
-💼 Seeking my **first job** <br/>
-📜 **Noncertificates** programmer <br/>
-🖋️ Spending every free time **studying** <br/>
+<p align="center">
+    📅 I have studied for <b>103 days</b> <br/>
+    💻 Currently focusing on <b>Front-End Development</b> <br/>
+    💼 Seeking my <b>first job</b> <br/>
+    📜 <b>Noncertificates</b> programmer <br/>
+    🖋️ Spending every <b>free time studying</b> <br/>
+</p>
 <br/> <br/> <br/>
 
 ## My Knowledges 🧠
