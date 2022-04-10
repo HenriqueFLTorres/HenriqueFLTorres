@@ -53,26 +53,47 @@
     </td>
  </tr>
 </table>
+<br/> <br/> <br/> <br/> 
 
+<h2 align="center">Feature Projects 🎉</h2>
 
-
-<br/> <br/> 
-<table>
+<br/>
+<table align="center">
  <tr>
     <td align="center"><h3>Preview</h3></td>
     <td align="center"><h3>Project Details</h3></td>
  </tr>
  <tr>
     <td align="center">
-        <img width="22%" src="./image/EzEcommerce.png" alt="EzEcommerce">
-        <img width="22%" src="./image/Mir4cc.png" alt="Mir4cc">
-        <img width="22%" src="./image/Portfolio.png" alt="Portfolio">
+        <img width="400px" src="./image/EzEcommerce.png" alt="EzEcommerce">
     </td>
     <td align="center">
-        <img width="12%" src="./svg/Git.svg" alt="Git">
-        <img width="12%" src="./svg/Sass.svg" alt="Sass">
-        <img width="12%" src="./svg/NodeJS.svg" alt="NodeJS">
-        <img width="12%" src="./svg/Rust.svg" alt="Rust">
+       • Add more products ✔️<br/> 
+       • Add cart functionality ✔️<br/> 
+       • Add more pages ✔️<br/> 
+       • Search by name <br/> 
+    </td>
+ <tr>
+    <td align="center">
+        <img width="400px" src="./image/Mir4cc.png" alt="Mir4cc">
+    </td>
+    <td align="center">
+       • Add all remaining items ✔️ <br/> 
+       • Fancier list item collapse ✔️ <br/> 
+       • Inventory option to the user choose their items ✔️ <br/> 
+       • More calculator tools such as lvl up, upgrade and etc... <br/> 
     </td>
  </tr>
+ <tr>
+    <td align="center">
+        <img width="400px" src="./image/Porfolio.png" alt="Porfolio">
+    </td>
+     <td align="center">
+       • Language Options ✔️<br/> 
+       • Responsive Design ✔️<br/> 
+       • Image Carrousel ✔️<br/> 
+        
+       [LINK 🔗]
+       [LINK 🔗]: https://github.com/HenriqueFLTorres/My-Personal-Portfolio
+    </td>
 </table>
