@@ -13,7 +13,7 @@
 <br/> <br/> <br/>
 
 ## My Knowledges 🧠
-
+<br/> <br/> 
 <p align="center">
     <img width="9%" src="./svg/HTML.svg" alt="HTML">
     <img width="9%" src="./svg/CSS.svg" alt="CSS">
@@ -23,7 +23,7 @@
     <img width="9%" src="./svg/TypeScript.svg" alt="TypeScript">
 </p>
 
-<br/>
+<br/> 
 
 <p align="center">
     <img width="9%" src="./svg/VisualCodeStudio.svg" alt="VisualCodeStudio">
@@ -32,18 +32,31 @@
     <img width="9%" src="./svg/AdobeXD.svg" alt="AdobeXD">
 </p>
 
-### Currently Studying 📖
+<br/> <br/> 
+<table>
+ <tr>
+    <td align="center"><h3>Currently Studying 📖</h3></td>
+    <td align="center"><h3>What i want to study for 2022 🔮</h3></td>
+ </tr>
+ <tr>
+    <td align="center">
+        <img width="22%" src="./svg/React.svg" alt="React">
+        <img width="22%" src="./svg/TypeScript.svg" alt="TypeScript">
+    </td>
+    <td align="center">
+        <img width="12%" src="./svg/Git.svg" alt="Git">
+        <img width="12%" src="./svg/Sass.svg" alt="Sass">
+        <img width="12%" src="./svg/NodeJS.svg" alt="NodeJS">
+        <img width="12%" src="./svg/Rust.svg" alt="Rust">
+    </td>
+ </tr>
+</table>
 
-<p align="center">
-    <img width="9%" src="./svg/React.svg" alt="React">
-    <img width="9%" src="./svg/TypeScript.svg" alt="TypeScript">
-</p>
 
-### What i want to study for 2022 🔮
 
-<p align="center">
-    <img width="9%" src="./svg/Git.svg" alt="Git">
-    <img width="9%" src="./svg/Sass.svg" alt="Sass">
-    <img width="9%" src="./svg/NodeJS.svg" alt="NodeJS">
-    <img width="9%" src="./svg/Rust.svg" alt="Rust">
-</p>
+
+
+
+
+
+
