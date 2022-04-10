@@ -15,35 +15,35 @@
 ## My Knowledges 🧠
 
 <p align="center">
-    <img width="3%" src="./svg/HTML.svg" alt="HTML">
-    <img width="3%" src="./svg/CSS.svg" alt="CSS">
-    <img width="3%" src="./svg/JavaScript.svg" alt="JavaScript">
-    <img width="3%" src="./svg/React.svg" alt="React">
-    <img width="3%" src="./svg/Next.js.svg" alt="Next.js">
-    <img width="3%" src="./svg/TypeScript.svg" alt="TypeScript">
+    <img width="9%" src="./svg/HTML.svg" alt="HTML">
+    <img width="9%" src="./svg/CSS.svg" alt="CSS">
+    <img width="9%" src="./svg/JavaScript.svg" alt="JavaScript">
+    <img width="9%" src="./svg/React.svg" alt="React">
+    <img width="9%" src="./svg/Next.js.svg" alt="Next.js">
+    <img width="9%" src="./svg/TypeScript.svg" alt="TypeScript">
 </p>
 
 <br/>
 
 <p align="center">
-    <img width="3%" src="./svg/VisualCodeStudio.svg" alt="VisualCodeStudio">
-    <img width="3%" src="./svg/GitHub.svg" alt="GitHub">
-    <img width="3%" src="./svg/Figma.svg" alt="Figma">
-    <img width="3%" src="./svg/AdobeXD.svg" alt="AdobeXD">
+    <img width="9%" src="./svg/VisualCodeStudio.svg" alt="VisualCodeStudio">
+    <img width="9%" src="./svg/GitHub.svg" alt="GitHub">
+    <img width="9%" src="./svg/Figma.svg" alt="Figma">
+    <img width="9%" src="./svg/AdobeXD.svg" alt="AdobeXD">
 </p>
 
 ### Currently Studying 📖
 
 <p align="center">
-    <img width="3%" src="./svg/React.svg" alt="React">
-    <img width="3%" src="./svg/TypeScript.svg" alt="TypeScript">
+    <img width="9%" src="./svg/React.svg" alt="React">
+    <img width="9%" src="./svg/TypeScript.svg" alt="TypeScript">
 </p>
 
 ### What i want to study for 2022 🔮
 
 <p align="center">
-    <img width="3%" src="./svg/Git.svg" alt="Git">
-    <img width="3%" src="./svg/Sass.svg" alt="Sass">
-    <img width="3%" src="./svg/NodeJS.svg" alt="NodeJS">
-    <img width="3%" src="./svg/Rust.svg" alt="Rust">
+    <img width="9%" src="./svg/Git.svg" alt="Git">
+    <img width="9%" src="./svg/Sass.svg" alt="Sass">
+    <img width="9%" src="./svg/NodeJS.svg" alt="NodeJS">
+    <img width="9%" src="./svg/Rust.svg" alt="Rust">
 </p>
