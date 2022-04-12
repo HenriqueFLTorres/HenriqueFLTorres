@@ -5,6 +5,7 @@
 ## About me 🚶‍♂️
 
 <br/> <br/>
+
 <p align="center">
     📅 I have studied for <b>103 days</b> <br/>
     💻 Currently focusing on <b>Front-End Development</b> <br/>
@@ -15,7 +16,9 @@
 <br/> <br/> <br/>
 
 ## My Knowledges 🧠
-<br/> <br/> 
+
+<br/> <br/>
+
 <p align="center">
     <img width="9%" src="./svg/HTML.svg" alt="HTML">
     <img width="9%" src="./svg/CSS.svg" alt="CSS">
@@ -25,7 +28,7 @@
     <img width="9%" src="./svg/TypeScript.svg" alt="TypeScript">
 </p>
 
-<br/> 
+<br/>
 
 <p align="center">
     <img width="9%" src="./svg/VisualCodeStudio.svg" alt="VisualCodeStudio">
@@ -34,7 +37,8 @@
     <img width="9%" src="./svg/AdobeXD.svg" alt="AdobeXD">
 </p>
 
-<br/> <br/> 
+<br/> <br/>
+
 <table>
  <tr>
     <td align="center"><h3>Currently Studying 📖</h3></td>
@@ -50,10 +54,11 @@
         <img width="12%" src="./svg/Sass.svg" alt="Sass">
         <img width="12%" src="./svg/NodeJS.svg" alt="NodeJS">
         <img width="12%" src="./svg/Rust.svg" alt="Rust">
+        <img width="10%" src="./svg/Jest.svg" alt="jest">
     </td>
  </tr>
 </table>
-<br/> <br/> <br/> <br/> 
+<br/> <br/> <br/> <br/>
 
 <h2 align="center">Feature Projects 🎉</h2>
 
