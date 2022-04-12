@@ -9,7 +9,6 @@
 <p align="center">
     📅 I have studied for <b>103 days</b> <br/>
     💻 Currently focusing on <b>Front-End Development</b> <br/>
-    💼 Seeking my <b>first job</b> <br/>
     📜 <b>Noncertificates</b> programmer <br/>
     🖋️ Spending every <b>free time studying</b> <br/>
 </p>
