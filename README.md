@@ -1,20 +1,19 @@
-# What are you looking for⠀👀
+# Oque você está procurando?⠀👀
 
 <img align="right" width="40%" src="./svg/Logo.svg" alt="Logo"/>
 
-## About me 🚶‍♂️
+## Sobre mim 🚶‍♂️
 
 <br/> <br/>
 
 <p align="center">
-    📅 I have studied for <b>103 days</b> <br/>
-    💻 Currently focusing on <b>Front-End Development</b> <br/>
-    📜 <b>Noncertificates</b> programmer <br/>
-    🖋️ Spending every <b>free time studying</b> <br/>
+    📅 Eu estudei por <b>103 dias</b> <br/>
+    💻 Atualmente focado em <b>Desenvolvimento Front-End</b> <br/>
+    🖋️ Usando todo tempo livre para <b>estudos</b> <br/>
 </p>
 <br/> <br/> <br/>
 
-## My Knowledges 🧠
+## Meus Conhecimentos 🧠
 
 <br/> <br/>
 
@@ -40,8 +39,8 @@
 
 <table>
  <tr>
-    <td align="center"><h3>Currently Studying 📖</h3></td>
-    <td align="center"><h3>What i want to study for 2022 🔮</h3></td>
+    <td align="center"><h3>Atualmente Estudando 📖</h3></td>
+    <td align="center"><h3>Oque eu quero estudar para 2022 🔮</h3></td>
  </tr>
  <tr>
     <td align="center">
@@ -64,28 +63,28 @@
 <br/>
 <table align="center">
  <tr>
-    <td align="center"><h3>Preview 🖼️</h3></td>
-    <td align="center"><h3>Project Goals 🏆</h3></td>
+    <td align="center"><h3>Pré-visualização 🖼️</h3></td>
+    <td align="center"><h3>Objetivos de Projetos 🏆</h3></td>
  </tr>
  <tr>
     <td align="center">
         <img width="400px" src="./image/EzEcommerce.png" alt="EzEcommerce">
     </td>
     <td align="center">
-       • Add more products ✔️<br/> 
-       • Add cart functionality ✔️<br/> 
-       • Add more pages ✔️<br/> 
-       • Search by name <br/> 
+       • Adicionar mais produtos ✔️<br/> 
+       • Adicionar funcionalidade de carrinho ✔️<br/> 
+       • Adicionar mais páginas ✔️<br/> 
+       • Procura por nome <br/> 
     </td>
  <tr>
     <td align="center">
         <img width="400px" src="./image/Mir4cc.png" alt="Mir4cc">
     </td>
     <td align="center">
-       • Add all remaining items ✔️ <br/> 
-       • Fancier list item collapse ✔️ <br/> 
-       • Inventory option to the user choose their items ✔️ <br/> 
-       • More calculator tools such as lvl up, upgrade and etc... <br/> 
+       • Adicionar items restantes ✔️ <br/> 
+       • Animação de colapsar na lista de items ✔️ <br/> 
+       • Feature de inventário para escolher os items atuais ✔️ <br/> 
+       • Mais ferramentos de calculos... <br/> 
     </td>
  </tr>
  <tr>
@@ -93,8 +92,8 @@
         <img width="400px" src="./image/Porfolio.png" alt="Porfolio">
     </td>
     <td align="center">
-       • Language Options ✔️<br/> 
-       • Responsive Design ✔️<br/> 
-       • Image Carrousel ✔️<br/> 
+       • Opções de Linguagems ✔️<br/> 
+       • Design Responsivo ✔️<br/> 
+       • Carrosel de Imagem ✔️<br/> 
     </td>
 </table>
