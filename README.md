@@ -7,7 +7,7 @@
 <br/> <br/>
 
 <p align="center">
-    📅 Eu estudei por <b>110 dias</b> <br/>
+    📅 Eu estudei por <b>116 dias</b> <br/>
     💻 Atualmente focado em <b>Desenvolvimento Front-End</b> <br/>
     🖋️ Usando todo tempo livre para <b>estudos</b> <br/>
 </p>
