@@ -44,8 +44,9 @@
  </tr>
  <tr>
     <td align="center">
-        <img width="22%" src="./svg/React.svg" alt="React">
         <img width="22%" src="./svg/TypeScript.svg" alt="TypeScript">
+        <img width="22%" src="./svg/Sass.svg" alt="Sass">
+        <img width="22%" src="./svg/NodeJS.svg" alt="NodeJS">
     </td>
     <td align="center">
         <img width="12%" src="./svg/Git.svg" alt="Git">
