@@ -10,6 +10,7 @@
     📅 Eu estudei por <b>145 dias</b> <br/>
     💻 Atualmente focado em <b>Desenvolvimento Front-End</b> <br/>
     🖋️ Usando todo tempo livre para <b>estudos</b> <br/>
+    👀 Meu artigo <a href="https://simplifiedknowledge.vercel.app/blog/referencia-vs-valor" >mais recente</a>!
 </p>
 <br/> <br/> <br/>
 
