@@ -7,10 +7,10 @@
 <br/> <br/>
 
 <p align="center">
-    📅 Eu estudei por <b>151 dias</b> <br/>
+    📅 Eu estudei por <b>152 dias</b> <br/>
     💻 Atualmente focado em <b>Desenvolvimento Front-End</b> <br/>
     🖋️ Usando todo tempo livre para <b>estudos</b> <br/>
-    👀 Meu artigo <a href="https://simplifiedknowledge.vercel.app/blog/referencia-vs-valor" target="_blank" >mais recente</a>!
+    👀 Meu artigo <a href="https://simplifiedknowledge.vercel.app/blog/middlewares-no-express" target="_blank" >mais recente</a>!
 </p>
 <br/> <br/> <br/>
 
