@@ -7,7 +7,7 @@
 <br/> <br/>
 
 <p align="center">
-    📅 Eu estudei e pratiquei por <b>199 dias</b> <br/>
+    📅 Eu estudei e pratiquei por <b>254 dias</b> <br/>
     💻 Atualmente focado em <b>Desenvolvimento Front-End</b> <br/>
     🖋️ Usando todo tempo livre para <b>estudos</b> <br/>
     👀 Meu artigo <a href="https://simplifiedknowledge.vercel.app/blog/middlewares-no-express" target="_blank" >mais recente</a>!
