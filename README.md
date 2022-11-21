@@ -32,7 +32,7 @@
     📅 <b>Days studied -</b> 289 days <br/>
     🔥  <b>Duolingo streak -</b> 337 days <br/>
     💻 <b>Currently focused on -</b> Back-End <br/>
-    👀 <a href="https://simplifiedknowledge.vercel.app/blog/big-o-e-algoritimos" target="_blank" >Latest article</a>
+    👀 <a href="https://simplifiedknowledge.vercel.app/blog/boost-code-readability" target="_blank" >Latest article</a>
 </p>
 
 <br/>
