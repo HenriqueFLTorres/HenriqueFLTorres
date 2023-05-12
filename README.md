@@ -29,8 +29,8 @@
 
 <h3 align="center">Statistics 🧐</h3> <br/>
 <p align="center">
-    📅 <b>Days studied -</b> 289 days <br/>
-    🔥  <b>Duolingo streak -</b> 337 days <br/>
+    📅 <b>Days studied -</b> 420 days <br/>
+    🔥 <b>Duolingo streak -</b> 490 days <br/>
     💻 <b>Currently focused on -</b> Back-End <br/>
     👀 <a href="https://simplifiedknowledge.vercel.app/blog/boost-code-readability" target="_blank" >Latest article</a>
 </p>
