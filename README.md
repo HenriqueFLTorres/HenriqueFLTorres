@@ -29,20 +29,10 @@
 
 <h3 align="center">Statistics 🧐</h3> <br/>
 <p align="center">
-    📅 <b>Days studied -</b> 420 days <br/>
-    🔥 <b>Duolingo streak -</b> 490 days <br/>
-    💻 <b>Currently focused on -</b> Back-End <br/>
+    💻 <b>Currently focused on -</b> SEO & Testing <br/>
     👀 <a href="https://simplifiedknowledge.vercel.app/blog/boost-code-readability" target="_blank" >Latest article</a>
 </p>
 
 <br/>
-
-**Who am I** <br/>
-A young guy astonished by the world of programming and the possibilities that the computer and the internet have offered for humanity, a curious person obsessed with knowledge diving deeper every day into Software Engineer.
-
-<br/>
-
-**My first interaction with Programming** <br/>
-In December 2021, after finishing high school, I started learning about python through free content on youtube. After realizing that I needed something more visibly appealing to show my skills, I started learning about the Front-End.
 
 <br/><br/>
