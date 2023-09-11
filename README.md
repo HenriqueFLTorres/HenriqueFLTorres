@@ -34,7 +34,7 @@
 
 <h3 align="center">Statistics 🧐</h3> <br/>
 <p align="center">
-    💻 <b>Currently focused on -</b> SEO & Testing <br/>
+    💻 <b>Currently focused on -</b> LeetCode 🎉 <br/>
     👀 <a href="https://simplifiedknowledge.vercel.app/blog/boost-code-readability" target="_blank" >Latest article</a>
 </p>
 
