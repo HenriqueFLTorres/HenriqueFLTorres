@@ -15,18 +15,23 @@
 <a href="https://www.linkedin.com/in/henriquefltorres/" target="_blank">
     <img align="center" width="23%" src="./buttons/LinkedIn.svg" alt="LinkedIn"/>
 </a>
+  
 <a href="mailto:henriquefltorres@gmail.com" target="_blank">
     <img align="center" width="23%" src="./buttons/Gmail.svg" alt="Gmail"/>
 </a>
+  
 <a href="https://simplifiedknowledge.vercel.app/" target="_blank">
     <img align="center" width="23%" src="./buttons/MyBlog.svg" alt="MyBlog"/>
 </a>
+
 <a href="https://stackoverflow.com/users/17776680/treffy" target="_blank">
     <img align="center" width="23%" src="./buttons/StackOverflow.svg" alt="StackOverflow"/>
 </a>
+
 <a href="https://leetcode.com/HenriqueFLTorres/" target="_blank">
     <img align="center" width="23%" src="./buttons/LeetCode.svg" alt="LeetCode"/>
 </a>
+
 </p>
 
 <h2>About me 🚶‍♂️</h2>
