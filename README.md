@@ -37,9 +37,9 @@
 <h2>About me 🚶‍♂️</h2>
 <br/>
 
-<h3 align="center">Statistics 🧐</h3> <br/>
+<h3 align="center">Some info 🧐</h3> <br/>
 <p align="center">
-    💻 <b>Currently focused on -</b> [LeetCode](https://leetcode.com/HenriqueFLTorres/) 🎉 <br/>
+    💻 <b>Currently learning Reverse Engineering 😵‍💫 <br/>
     👀 <a href="https://simplifiedknowledge.vercel.app/blog/boost-code-readability" target="_blank" >Latest article</a>
 </p>
 
